@@ -1,0 +1,12 @@
+{
+  "shifu": {
+    "route": {
+      "${routeName}": {
+        "schema": "http",
+        "method": [
+          "POST"
+        ]
+      }
+    }
+  }
+}

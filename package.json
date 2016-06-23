@@ -1,0 +1,12 @@
+{
+  "name": "shifu",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluecat": "^1.0.8",
+    "chai": "^3.5.0",
+    "config": "^1.21.0",
+    "mocha": "^2.5.3",
+    "mocha-espresso": "^1.1.0",
+    "mocha-multi": "^0.9.0"
+  }
+}
