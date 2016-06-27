@@ -1,11 +1,15 @@
 {
   "shifu": {
-    "route": {
-      "${routeName}": {
-        "schema": "http",
-        "method": [
-          "POST"
-        ]
+    "_admin": {
+      "api": {
+        "route": {
+          "${routeName}": {
+            "schema": "http",
+            "method": [
+              "POST"
+            ]
+          }
+        }
       }
     }
   }
