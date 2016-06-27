@@ -31,7 +31,7 @@ var s = Http.createServer(function(req, res) {
 describe('Shifu admin client unit tests', function() {
 
   before(function(done) {
-    // create cyancat object
+    // create shifu admin object
     t = new ShifuAdmin('http://localhost:6767', {
       proxy: Config.proxy
     });
